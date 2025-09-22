@@ -1,8 +1,8 @@
 name: "IPFS Daemon"
 description: "Add-on to run IPFS Daemon"
-version: "1.3.3"
+version: "1.3.4"
 slug: "ipfs-daemon"
-url: https://github.com/PinoutLTD/ipfs-addon
+url: https://github.com/PaTara43/ipfs-addon
 init: false
 startup: services
 host_network: true
